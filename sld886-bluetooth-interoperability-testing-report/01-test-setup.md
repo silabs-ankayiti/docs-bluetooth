@@ -5,7 +5,7 @@ Tests were performed using Silicon Labs evaluation hardware, with each product f
 | Setup Component |Version / Board |
 |-|-|
 | Bluetooth SDK (embedded) |3.2.4 / 3.3.2  |
-| Gecko SDK |4.0.2 |
+| Gecko SDK |4.3.2 |
 | EFR32 Connect |2.4.1 / 2.4.3 |
 | ERF32xG13 |BRD4104A  |
 | ERF32xG21 |BRD4181A / BRD4181B |
